@@ -11,6 +11,7 @@
 - ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamdouh-Abdo)
 - ![](https://github-readme-streak-stats.herokuapp.com/?user=Mamdouh-Abdo)
   <img src="https://github.com/Mamdouh-Abdo/Mamdouh-Abdo/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
+  <a href="https://app.daily.dev/Mamdowh"><img src="https://api.daily.dev/devcards/0db2099198d646678648bd423d655504.png?r=7j0" width="400" alt="Mamdouh Abdelattif  mohamed's Dev Card"/></a>
 <!---
 GovindVijay/GovindVijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
